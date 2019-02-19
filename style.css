@@ -71,7 +71,7 @@ footer{
 background-color: gray; 
 border-top-style: solid; 
 border-top-width: 5px; 
-border-top-color: #0BADA6;
+border-top-color:  rgb(11, 173, 166);
 color: white; 
 min-height: 55px; 
 font-family: Arial, Helvetica, sans-serif;
@@ -90,7 +90,7 @@ img{
     height:100%;
 }
 .active, .panel:hover{
-    border-color:#0BADA6;
+    border-color: rgb(11, 173, 166);
     border-style: solid; 
     
 }
@@ -103,7 +103,7 @@ img{
 /* Media Queries */
 @media(max-width: 840px){
 .navbar-expand-lg{
-background-color: #0BADA6;
+background-color:  rgb(11, 173, 166);
 }
 .navbar{
     max-height: none; 
